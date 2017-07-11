@@ -1,5 +1,4 @@
-# TODO fix the double message when posting, and the errors when assigning the same 
-# nodeID to different nodes
+# TODO fix the double message when posting, and the errors when assigning the same nodeID to different nodes
 
 To run the software enter the command, python3 server.py <IPADDRESS>
 
